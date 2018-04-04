@@ -1,0 +1,25 @@
+﻿#PreImport#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using STLExtensiton;
+using UnityDLL;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+	
+    #region		Variables 
+    #endregion  Variables 
+
+	#region		Functions 
+    #endregion  Functions 
+
+	#region		Events
+	void Start () {
+		#NOTRIM#
+	}
+	
+	void Update () {
+		#NOTRIM#
+	}
+    #endregion  Events 
+}

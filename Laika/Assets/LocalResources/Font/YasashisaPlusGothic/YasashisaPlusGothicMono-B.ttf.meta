@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 683a675b5be2cc94aa72eb2973bcd611
+timeCreated: 1522465684
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YasashisaPlusGothicMono-B
+  fontNames:
+  - YasashisaPlusGothicMono-B
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
